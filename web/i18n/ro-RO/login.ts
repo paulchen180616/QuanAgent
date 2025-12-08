@@ -58,7 +58,7 @@ const translation = {
     invalidEmailOrPassword: 'Email sau parolă invalidă.',
   },
   license: {
-    tip: 'Înainte de a începe Dify Community Edition, citește',
+    tip: 'Înainte de a începe QuanAgent, citește',
     link: 'Licența open-source de pe GitHub',
   },
   join: 'Alătură-te',
@@ -101,10 +101,10 @@ const translation = {
   changePasswordBtn: 'Setați o parolă',
   licenseLostTip: 'Nu s-a reușit conectarea serverului de licențe Dify. Contactați administratorul pentru a continua să utilizați Dify.',
   licenseInactive: 'Licență inactivă',
-  licenseInactiveTip: 'Licența Dify Enterprise pentru spațiul de lucru este inactivă. Contactați administratorul pentru a continua să utilizați Dify.',
+  licenseInactiveTip: 'Licența Enterprise pentru spațiul de lucru este inactivă. Contactați administratorul pentru a continua să utilizați Dify.',
   licenseExpired: 'Licență expirată',
   licenseLost: 'Licență pierdută',
-  licenseExpiredTip: 'Licența Dify Enterprise pentru spațiul de lucru a expirat. Contactați administratorul pentru a continua să utilizați Dify.',
+  licenseExpiredTip: 'Licența Enterprise pentru spațiul de lucru a expirat. Contactați administratorul pentru a continua să utilizați Dify.',
   webapp: {
     noLoginMethod: 'Metoda de autentificare nu este configurată pentru aplicația web',
     noLoginMethodTip: 'Vă rugăm să contactați administratorul sistemului pentru a adăuga o metodă de autentificare.',

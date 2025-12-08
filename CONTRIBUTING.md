@@ -1,6 +1,10 @@
 # CONTRIBUTING
 
-So you're looking to contribute to Dify - that's awesome, we can't wait to see what you do. As a startup with limited headcount and funding, we have grand ambitions to design the most intuitive workflow for building and managing LLM applications. Any help from the community counts, truly.
+Thank you for your interest in QuanAgent! This project is a fork of [Dify](https://github.com/langgenius/dify), customized for quantitative analysis use cases.
+
+For contributing to the upstream Dify project, please visit the [original Dify repository](https://github.com/langgenius/dify).
+
+For QuanAgent-specific contributions, please follow the guidelines below.
 
 We need to be nimble and ship fast given where we are, but we also want to make sure that contributors like you get as smooth an experience at contributing as possible. We've assembled this contribution guide for that purpose, aiming at getting you familiarized with the codebase & how we work with contributors, so you could quickly jump to the fun part.
 

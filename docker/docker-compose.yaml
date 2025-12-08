@@ -735,7 +735,7 @@ services:
 
   # Frontend web application.
   web:
-    image: langgenius/dify-web:1.10.1
+    image: quanagent-web:1.10.1
     volumes:
     - ../web/public/logo:/app/web/public/logo
     restart: always

@@ -63,7 +63,7 @@ const translation = {
     invalidEmailOrPassword: 'अमान्य ईमेल या पासवर्ड।',
   },
   license: {
-    tip: 'Dify Community Edition शुरू करने से पहले, GitHub पर',
+    tip: 'QuanAgent शुरू करने से पहले, GitHub पर',
     link: 'ओपन-सोर्स लाइसेंस',
   },
   join: 'शामिल हों',

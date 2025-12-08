@@ -59,7 +59,7 @@ const translation = {
     invalidEmailOrPassword: '無効なメールアドレスまたはパスワードです。',
   },
   license: {
-    tip: 'GitHub のオープンソースライセンスを確認してから、Dify Community Edition を開始してください。',
+    tip: 'GitHub のオープンソースライセンスを確認してから、QuanAgent を開始してください。',
     link: 'オープンソースライセンス',
   },
   join: '参加する',
@@ -101,9 +101,9 @@ const translation = {
   enterYourName: 'ユーザー名を入力してください',
   resetPasswordDesc: 'Dify へのサインアップに使用したメールアドレスを入力すると、パスワードリセットメールが送信されます。',
   licenseLost: 'ライセンスを失った',
-  licenseExpiredTip: 'ワークスペースの Dify Enterprise ライセンスの有効期限が切れています。Dify を引き続き使用するには、管理者に連絡してください。',
+  licenseExpiredTip: 'ワークスペースの Enterprise ライセンスの有効期限が切れています。Dify を引き続き使用するには、管理者に連絡してください。',
   licenseInactive: 'ライセンスが非アクティブです',
-  licenseInactiveTip: 'ワークスペースの Dify Enterprise ライセンスが非アクティブです。Dify を引き続き使用するには、管理者に連絡してください。',
+  licenseInactiveTip: 'ワークスペースの Enterprise ライセンスが非アクティブです。Dify を引き続き使用するには、管理者に連絡してください。',
   licenseExpired: 'ライセンスの有効期限が切れています',
   licenseLostTip: 'Dify ライセンスサーバーへの接続に失敗しました。続けて Dify を使用するために管理者に連絡してください。',
   webapp: {

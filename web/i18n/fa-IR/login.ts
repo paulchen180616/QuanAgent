@@ -58,7 +58,7 @@ const translation = {
     invalidEmailOrPassword: 'ایمیل یا رمز عبور نامعتبر است.',
   },
   license: {
-    tip: 'قبل از شروع Dify Community Edition، GitHub را بخوانید',
+    tip: 'قبل از شروع QuanAgent، GitHub را بخوانید',
     link: 'مجوز منبع باز',
   },
   join: 'عضویت',
@@ -102,8 +102,8 @@ const translation = {
   licenseInactive: 'مجوز غیر فعال',
   licenseLost: 'مجوز گم شده است',
   licenseExpired: 'مجوز منقضی شده است',
-  licenseExpiredTip: 'مجوز Dify Enterprise برای فضای کاری شما منقضی شده است. لطفا برای ادامه استفاده از Dify با سرپرست خود تماس بگیرید.',
-  licenseInactiveTip: 'مجوز Dify Enterprise برای فضای کاری شما غیرفعال است. لطفا برای ادامه استفاده از Dify با سرپرست خود تماس بگیرید.',
+  licenseExpiredTip: 'مجوز Enterprise برای فضای کاری شما منقضی شده است. لطفا برای ادامه استفاده از Dify با سرپرست خود تماس بگیرید.',
+  licenseInactiveTip: 'مجوز Enterprise برای فضای کاری شما غیرفعال است. لطفا برای ادامه استفاده از Dify با سرپرست خود تماس بگیرید.',
   licenseLostTip: 'اتصال سرور مجوز Dify انجام نشد. لطفا برای ادامه استفاده از Dify با سرپرست خود تماس بگیرید.',
   webapp: {
     disabled: 'احراز هویت وب اپ غیرفعال است. لطفاً با مدیر سیستم تماس بگیرید تا آن را فعال کند. می‌توانید سعی کنید مستقیماً از اپلیکیشن استفاده کنید.',

@@ -1,4 +1,4 @@
-# Dify Frontend
+# QuanAgent Frontend
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
@@ -30,12 +30,12 @@ NEXT_PUBLIC_DEPLOY_ENV=DEVELOPMENT
 NEXT_PUBLIC_EDITION=SELF_HOSTED
 # The base URL of console application, refers to the Console base URL of WEB service if console domain is
 # different from api or web app domain.
-# example: http://cloud.dify.ai/console/api
+# example: http://cloud.quanagent.ai/console/api
 NEXT_PUBLIC_API_PREFIX=http://localhost:5001/console/api
 NEXT_PUBLIC_COOKIE_DOMAIN=
 # The URL for Web APP, refers to the Web App base URL of WEB service if web app domain is different from
 # console or api domain.
-# example: http://udify.app/api
+# example: http://quanagent.app/api
 NEXT_PUBLIC_PUBLIC_API_PREFIX=http://localhost:5001/api
 
 # SENTRY

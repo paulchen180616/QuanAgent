@@ -1,5 +1,5 @@
 [project]
-name = "dify-api"
+name = "quanagent-api"
 version = "1.10.1"
 requires-python = ">=3.11,<3.13"
 

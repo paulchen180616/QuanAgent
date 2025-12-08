@@ -58,7 +58,7 @@ const translation = {
     invalidEmailOrPassword: 'Ungültige E-Mail oder Passwort.',
   },
   license: {
-    tip: 'Bevor du mit Dify Community Edition beginnst, lies die',
+    tip: 'Bevor du mit QuanAgent beginnst, lies die',
     link: 'Open-Source-Lizenz',
   },
   join: 'Beitreten',
@@ -102,8 +102,8 @@ const translation = {
   licenseExpired: 'Lizenz abgelaufen',
   licenseLostTip: 'Fehler beim Verbinden des Dify-Lizenzservers. Wenden Sie sich an Ihren Administrator, um Dify weiterhin zu verwenden.',
   licenseInactive: 'Lizenz inaktiv',
-  licenseInactiveTip: 'Die Dify Enterprise-Lizenz für Ihren Arbeitsbereich ist inaktiv. Wenden Sie sich an Ihren Administrator, um Dify weiterhin zu verwenden.',
-  licenseExpiredTip: 'Die Dify Enterprise-Lizenz für Ihren Arbeitsbereich ist abgelaufen. Wenden Sie sich an Ihren Administrator, um Dify weiterhin zu verwenden.',
+  licenseInactiveTip: 'Die Enterprise-Lizenz für Ihren Arbeitsbereich ist inaktiv. Wenden Sie sich an Ihren Administrator, um Dify weiterhin zu verwenden.',
+  licenseExpiredTip: 'Die Enterprise-Lizenz für Ihren Arbeitsbereich ist abgelaufen. Wenden Sie sich an Ihren Administrator, um Dify weiterhin zu verwenden.',
   licenseLost: 'Lizenz verloren',
   webapp: {
     noLoginMethod: 'Authentifizierungsmethode ist nicht für die Webanwendung konfiguriert',
