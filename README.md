@@ -68,24 +68,37 @@ QuanAgent is a customized fork of Dify, an open-source platform for developing L
 > - CPU >= 2 Core
 > - RAM >= 4 GiB
 
-<br/>
+### 🚀 Production Deployment
 
-The easiest way to start the QuanAgent server is through [Docker Compose](docker/docker-compose.yaml). Before running QuanAgent with the following commands, make sure that [Docker](https://docs.docker.com/get-docker/) and [Docker Compose](https://docs.docker.com/compose/install/) are installed on your machine:
+For production deployment with Nginx reverse proxy and SSL support, please refer to our comprehensive guide:
+
+**📖 [Production Deployment Guide](DEPLOYMENT.md)**
+
+This guide covers:
+- Docker + Docker Compose setup
+- Nginx reverse proxy configuration
+- SSL certificate with Let's Encrypt
+- Domain configuration
+- Performance optimization
+- Common troubleshooting
+
+### 🛠️ Local Development
+
+The easiest way to start the QuanAgent server locally is through [Docker Compose](docker/docker-compose.yaml):
 
 ```bash
-cd QuanAgent
-cd docker
+cd QuanAgent/docker
 cp .env.example .env
 docker compose up -d
 ```
 
-After running, you can access the QuanAgent dashboard in your browser at [http://localhost/install](http://localhost/install) and start the initialization process.
+After running, access the dashboard at [http://localhost/install](http://localhost/install) and start the initialization process.
 
 #### Seeking help
 
-Please refer to the [Dify FAQ](https://docs.dify.ai/getting-started/install-self-hosted/faqs) if you encounter problems setting up QuanAgent, as it's based on Dify.
-
-> For development and deployment from source code, refer to the [Dify deployment guide](https://docs.dify.ai/getting-started/install-self-hosted/local-source-code)
+- **Production Deployment**: See [DEPLOYMENT.md](DEPLOYMENT.md)
+- **General Issues**: Refer to the [Dify FAQ](https://docs.dify.ai/getting-started/install-self-hosted/faqs)
+- **Development**: Check the [Dify deployment guide](https://docs.dify.ai/getting-started/install-self-hosted/local-source-code)
 
 ## Key features
 
